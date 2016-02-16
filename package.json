@@ -1,7 +1,7 @@
 {
-    "name": "writestream-promise",
+    "name": "itsa-writestream-promise",
     "version": "0.0.1",
-    "description": "Adds WriteStream.endPromise(): a Promise variation of WriteStream.end()",
+    "description": "Adds WriteStream.itsa_endPromise(): WriteStream.end() as a Promise",
     "author": [
         {
             "name": "Marco Asbreuk",

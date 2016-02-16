@@ -21,8 +21,4 @@ endPromise = function() {
     });
 };
 
-fs.WriteStream.prototype.endPromise = endPromise;
-
-module.exports = {
-    endPromise: endPromise
-};
+fs.WriteStream.prototype.itsa_endPromise = endPromise;

@@ -1,2 +1,3 @@
 # writestream-promise
-Adds WriteStream.endPromise(): a Promise variation of WriteStream.end()
+
+Adds WriteStream.itsa_endPromise(): WriteStream.end() as a Promise.
